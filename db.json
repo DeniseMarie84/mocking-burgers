@@ -1,0 +1,54 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "La Bandita",
+            "restaraunt": "hopdoddy burger bar",
+            "web": "www.hopdoddy.com",
+            "description": "flavorful black bean burger",
+            "ingredients": ["black bean-corn patty", "avocado", "laura Chenel Goat cheese", 
+                "arugula", "Cilantro pesto", "Chipotle Mayo", "White onion", "beefsteak tomato",
+                 "whole wheat bun"],
+            "addresses": [
+                {
+                    "address id": 0,
+                    "number": 12746,
+                    "line 1": "Jefferson Blvd",
+                    "line 2": "suite 1120",
+                    "city": "Playa Vista",
+                    "state": "California",
+                    "zip code": 90064
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Impossible Burger",
+            "restaraunt": "hopdoddy burger bar",
+            "web": "www.hopdoddy.com",
+            "description": "plant- based burger",
+            "ingredients": ["impossible patty", "Sassy sauce", "Tillamook cheddar", "lettuce",
+                        "tomato", "onion"],
+            "addresses": [
+                {
+                    "address id": 0,
+                    "number": 12746,
+                    "line 1": "Jefferson Blvd",
+                    "line 2": "suite 1120",
+                    "city": "Playa Vista",
+                    "state": "California",
+                    "zip code": 90064
+                },
+                {
+                    "address id": 1,
+                    "number": 830,
+                    "line 1": "South Pacific Coast Highway Blvd",
+                    "line 2": "suite 116",
+                    "city": "El Segundo",
+                    "state": "California",
+                    "zip code": 90245
+                }
+            ]
+        }
+    ]
+}
